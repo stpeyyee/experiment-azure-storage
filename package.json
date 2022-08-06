@@ -1,0 +1,17 @@
+{
+  "name": "experiment-azure-storage",
+  "version": "1.0.0",
+  "description": "For experiment crud on azure blob storage with node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sathidporn Chancharoen",
+  "license": "MIT",
+  "dependencies": {
+    "@azure/identity": "^2.1.0",
+    "@azure/storage-blob": "^12.11.0",
+    "dotenv": "^16.0.1",
+    "uuid": "^8.3.2"
+  }
+}
